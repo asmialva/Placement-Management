@@ -1,2 +1,8 @@
-# Placement-Management
-Placement Management System is a web application designed to streamline the campus recruitment process. Built with React and powered by a RESTful API, it allows students to create profiles, apply for jobs, and schedule interviews, while employers can post job openings and manage applications.  
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
